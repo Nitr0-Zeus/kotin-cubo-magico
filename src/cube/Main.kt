@@ -14,8 +14,6 @@
  * 5. Gira a face Frente (F) do cubo embaralhado
  * 6. Exibe o resultado final
  */
-import java.util.Random
-
 // Funcao para inicializar o cubo com cores padrao
 fun inicializarCubo(): CuboMagico {
     val cubo = CuboMagico()
